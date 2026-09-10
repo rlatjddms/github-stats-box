@@ -25,5 +25,6 @@ jobs:
 
                   # Edit the following environment variables
                   GIST_ID: 39b560db37763c9950ee5a42b1340f03 # The ID portion from your gist url
+                  USER_NAME: rlatjddms
                   ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
                   K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
